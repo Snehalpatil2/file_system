@@ -73,7 +73,7 @@ make all
 To create a new virtual disk, use the following command:
 
 ```bash
-./create_vd <disk_name>
+./create_vd <disk_size> <disk_name>
 ```
 
 ### Add a File to the Virtual Disk
@@ -110,7 +110,7 @@ To remove all compiled files and object files, run:
 make clean
 ```
 
-## License
+## Author
 
-This project is licensed under the MIT License.
+Snehal Jitendra Patil
 
