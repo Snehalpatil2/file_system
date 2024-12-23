@@ -1,3 +1,5 @@
+
+//argv[1] = 'vd_size'
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
